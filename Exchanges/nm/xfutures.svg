@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{opacity:0.3;fill:url(#SVGID_1_);fill-opacity:0.5;enable-background:new    ;}
+	.st2{opacity:0.3;fill:url(#SVGID_2_);fill-opacity:0.5;enable-background:new    ;}
+	.st3{fill:#3FA9F5;}
+	.st4{fill:#020F27;}
+</style>
+<title>YouTube</title>
+<rect class="st0" width="500" height="500"/>
+<rect class="st0" width="500" height="500"/>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="250" y1="502" x2="250" y2="2" gradientTransform="matrix(1 0 0 -1 0 502)">
+		<stop  offset="0" style="stop-color:#3FA9F5;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#3FA9F5"/>
+	</linearGradient>
+	<polygon class="st1" points="500,147.3 248.9,500 0,500 0,353.1 252,0 500,0 	"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1058.3201" y1="502" x2="-1058.3201" y2="2" gradientTransform="matrix(-1 0 0 -1 -808.32 502)">
+		<stop  offset="0" style="stop-color:#3FA9F5;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#3FA9F5"/>
+	</linearGradient>
+	<polygon class="st2" points="0,147.3 251.1,500 500,500 500,353.1 248,0 0,0 	"/>
+</g>
+<polygon class="st3" points="250,321 308.9,403.7 410,403.7 300.4,250.2 "/>
+<polygon class="st4" points="410,96.3 309.4,96.3 250,179.6 300.4,250.2 "/>
+<polygon class="st4" points="90,403.7 191.1,403.7 300.4,250.2 199.6,250.2 "/>
+<polygon class="st3" points="190.6,96.3 90,96.3 199.6,250.2 300.4,250.2 "/>
+</svg>
